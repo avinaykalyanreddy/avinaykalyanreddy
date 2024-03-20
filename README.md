@@ -14,8 +14,12 @@
 - Python: Proficient in Python programming language.
 - Problem Solving, particularly on platforms like LeetCode.
 
-### LeetCode Solutions: My Coding Journey
-   Feel free to explore the solutions in the repository --> [Solutions](https://github.com/avinaykalyanreddy/Leetcode-Solution)
+### LeetCode Solutions: My Coding Journey  
+   Feel free to explore the solutions in the repository --> [Solutions](https://github.com/avinaykalyanreddy/Leetcode-Solution)  
+
+   ### Badges 🎖️
+   
+   <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width=60 height=80>
 
 
 
