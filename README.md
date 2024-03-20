@@ -1,6 +1,7 @@
 ## 👨‍💻 Hey,  I'm A Vinay Kalyan Reddy  
 **I'm currently pursuing my second year of studies in Information Science and Engineering. Welcome to my GitHub profile!**  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinaykalyanreddy&theme=dark)   ![Profile views](https://komarev.com/ghpvc/?username=avinaykalyanreddy&color=red)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avinaykalyanreddy&theme=dark)     
+![Profile views](https://komarev.com/ghpvc/?username=avinaykalyanreddy&color=red)
 
 ### Education
 
