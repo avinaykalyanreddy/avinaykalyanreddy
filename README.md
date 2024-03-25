@@ -25,7 +25,7 @@
 
 
 ### Leetcode Stats
-[![avinaykalyanreddy's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=avinaykalyanreddy&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)  
+[![avinaykalyanreddy's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=avinaykalyanreddy&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ###  Github stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinaykalyanreddy&theme=dark)
