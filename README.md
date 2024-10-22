@@ -18,8 +18,7 @@
    Feel free to explore the solutions in the repository --> [Solutions](https://github.com/avinaykalyanreddy/Leetcode-Solution)  
 
    ### Badges 🎖️
-   
-   <img src="https://assets.leetcode.com/static_assets/marketing/lg50.png" width=60 height=80>
+   ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=avinaykalyanreddy&animated=true)
 
 
 
